@@ -13,3 +13,7 @@
 **Foresight Institute** - a non-profit advancing frontier biotech, neurotech, nanotech, and AI for the benefit of life.
 
 -  [Website](https://foresight.org/)
+
+**The Brain Preservation Foundation** is an American non-profit organization founded in 2010 with the goal of promoting validated scientific research, knowledge, and technical services development in the field of whole human brain preservation for long-term static storage. 
+
+-  [Website](https://www.brainpreservation.org/)
