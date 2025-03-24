@@ -7,3 +7,9 @@
 **Calico Life Sciences LLC** - research and development company founded by Google (Alphabet) whose mission is to harness advanced technologies and model systems to increase the understanding of the biology that controls human aging. Focuses on publications revolving around basic research & drug development.
 
 -  [Website](https://www.calicolabs.com/)
+
+## Non-profits
+
+**Foresight Institute** - a non-profit advancing frontier biotech, neurotech, nanotech, and AI for the benefit of life.
+
+-  [Website](https://foresight.org/)
